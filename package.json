@@ -21,7 +21,10 @@
     "hmr",
     "live",
     "edit",
-    "webpack"
+    "webpack",
+    "post-css",
+    "css-modules",
+    "jest"
   ],
   "author": "Pouria Bashardoust <pouria.bashardoust@gmail.com> (http://github.com/pouria-bashar)",
   "license": "ISC",
