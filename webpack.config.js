@@ -14,6 +14,7 @@ module.exports = {
     open: true,
     historyApiFallback: true,
     hot: true,
+    stats: 'errors-only',
   },
   module: {
     rules: [
